@@ -85,7 +85,6 @@ int main()
 					enemy->dx = 0;
 					p.dx = 0.2;
 					p.health--;
-					std::cout << p.health << "  ";
 				}
 				//else if (!p.hit) {
 				//		p.health -= 5; p.hit = true;
